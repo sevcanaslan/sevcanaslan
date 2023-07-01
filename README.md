@@ -22,12 +22,15 @@ Hello, I'm Sevcan. I am actually an industrial engineer. After 3 years of digita
 
 - 📫 How to reach me **sevcan.aslan2@gmail.com**
 
+- 📄 Know about my experiences [sevcanaslan.github.io](sevcanaslan.github.io)
+
 <h1>
 </h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sevcan-aslan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sevcan-aslan/" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/https://leetcode.com/user2995jw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user2995jw/" height="30" width="40" /></a>
 </p>
 <h1>
 </h1>
