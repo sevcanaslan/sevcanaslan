@@ -22,7 +22,8 @@ Hello, I'm Sevcan. I am actually an industrial engineer. After 3 years of digita
 
 - 📫 How to reach me **sevcan.aslan2@gmail.com**
 
-- 📄 Know about my experiences [sevcanaslan.github.io](sevcanaslan.github.io)
+- 📄 Know about my experiences [My Resume](https://sevcanaslan.github.io) 
+
 
 <h1>
 </h1>
