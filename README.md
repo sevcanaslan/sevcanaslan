@@ -9,7 +9,7 @@
 </h1>
 
 <p align="left">
-Hello, I'm Sevcan. I am actually an industrial engineer. After 3 years of digital media career, I started learning software in 2022. I took Full Stack software training in Java from Bilge Adam Teknoloji's 6-month star software program and completed it in April 2023. During the training process, I learned Java 17, PostgreSQL, HTML, CSS, JS, Docker, Kubernates technologies. At the end of the training, I wrote a Human Resources Management project. I am currently doing an internship at Bilge Adam and working on my personal projects.
+Hello, I'm Sevcan. I am an industrial engineer by profession. After a 3-year career in digital marketing, I embarked on a journey to learn software development in 2022. I enrolled in the 6-month Star Software Program offered by Bilge Adam Teknoloji, where I received comprehensive Full Stack software training in Java. I successfully completed the program in April 2023. Throughout the training, I gained proficiency in Java 17, PostgreSQL, HTML, CSS, JS, Docker, and Kubernetes technologies. As a culmination of the training, I developed a Human Resources Management project. Currently, I am gaining practical experience through an internship at Bilge Adam while also working on personal software projects.
 </p>
 <h2>
   What am I working on now?
